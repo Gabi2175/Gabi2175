@@ -1,8 +1,8 @@
-### Olá! Eu sou o Gabriel Dalbem 
+## Olá! Eu sou o Gabriel Dalbem 
 
-## 🔭 Hoje eu trabalho com C#
-## 🌱 Atualmente estudando C# e Python
-# 📫 Meu email para contato é g.dalbem@pucrs.br ou gabrieldalbem2175@gmail.com
+### 🔭 Hoje eu trabalho com C#
+### 🌱 Atualmente estudando C# e Python
+### 📫 Meu email para contato é g.dalbem@pucrs.br ou gabrieldalbem2175@gmail.com
 
 
 ## Tecnologias que eu uso no meu dia
