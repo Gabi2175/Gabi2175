@@ -3,7 +3,7 @@
 ### 🔭 Hoje eu trabalho com C#
 ### 🌱 Atualmente estudando C# e Python
 ### 💼 Atualmente Trabalho desenvolvendo aplicações para Oculus Quest 3 no laboratório de computação grafica da pucrs (GRV)
-### Link para Organização para qual trabalho atualmente : [![Projetos GRV](https://shields.io)](https://github.com/Projetos-GRV)
+### Link para Organização para qual trabalho atualmente : [![Projetos GRV]](https://github.com/Projetos-GRV)
 ### 📫 Meu email para contato é g.dalbem@pucrs.br ou gabrieldalbem2175@gmail.com
 
 
